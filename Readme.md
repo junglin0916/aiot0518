@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 # Huan Chen's Homework #5林孟蓉
+=======
+<<<<<<< HEAD
+# Huan Chen's Homework #5林孟蓉
+=======
+# Huan Chen's Homework #5 v3
+>>>>>>> 56d6f37a4a3daf23ce9684d21eb238548312447a
+>>>>>>> f6cfe2dad8e644fd7059cf3c98d522b1180fd6a7
 
 ## Lecture 13: IoT Flask Web (github, vs code)
 ### Development Environment Setup
